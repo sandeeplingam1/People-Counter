@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project specific
+logs/*.csv
+logs/*.png
+speak_count.mp3
+speech_*.mp3
+saved_img.jpg
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
